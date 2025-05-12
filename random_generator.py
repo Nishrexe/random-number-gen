@@ -11,4 +11,8 @@ if random_number % 2 == 0:
 else:
     print("Odd")
 
-
+# checking if the number is larger than 100
+if random_number > 100 :
+    print ("number is bigger than 100")
+else:
+    print ("number is smaller than 100")
